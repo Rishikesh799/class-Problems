@@ -1,4 +1,4 @@
-#######COMPUTATION PROBLEM########
+#######COMPUTATION PROBLEM###########
 #1 - Create a Coputation class with a default constructor (without parameters) allowing to perform various calculations on integers numbers.
 #2 - Create a method called Factorial() which allows to calculate the factorial of an integer.
 #    Test the method by instantiating the class.
