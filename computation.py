@@ -7,7 +7,7 @@
 #4 - Create  a method called testPrims() allowing to test if two numbers are prime between them.
 #5 - Create a tableMult() method which creates and displays the multiplication table of a given integer.
 #    Then create an allTablesMult() method to display all the integer multiplication tables 1, 2, 3, ..., 9.
-#6 - Create a static listDiv() method that gets all the divisors of a given integer on new list called  Ldiv.
+#6 - Create a static listDiv() method that gets all the divisors of a given integer on new list called  Ldivision.
 #    Create another listDivPrim() method that gets all the prime divisors of a given integer.
 
 """
